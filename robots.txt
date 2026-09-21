@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://SEUDOMINIO.com.br/sitemap.xml
+Sitemap: https://123vivafestas.github.io/landingpagefestas/
